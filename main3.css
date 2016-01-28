@@ -1,0 +1,14 @@
+.cuadro {
+	background: yellow;
+	height: 100px;
+	width: 210px;
+	display: inline-block;
+	margin:20px 30px;
+}
+.cuadro2 {
+	background: red;
+	height: 100px;
+	width: 210px;
+	display: inline-block;
+	margin:20px 30px;
+}

@@ -1,0 +1,11 @@
+/* Escribe tu css aqui */
+.cuadro {
+	margin:auto;
+	background: yellow;
+	height: 100px;
+}
+.cuadro2 {
+	background: red;
+	height: 100px;
+	margin:-16px 0px -16px 0px;
+}
